@@ -1,7 +1,7 @@
 # React + TypeScript + Vite
 
 Betting App
-![alt text]
+![alt text](https://github.com/vabnix/react-betting-app/blob/main/Screenshot%20at%20Aug%2008%2012-00-28.png)
 
 Currently, two official plugins are available:
 
